@@ -216,6 +216,14 @@
   "remed": 20
  },
  {
+  "slug": "ford-county",
+  "title": "Ford County",
+  "places": 13,
+  "dates": "5/14/2026 – 5/15/2026",
+  "compliant": 0,
+  "remed": 13
+ },
+ {
   "slug": "city-of-galesburg",
   "title": "City of Galesburg",
   "places": 6,
