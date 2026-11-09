@@ -192,6 +192,14 @@
   "remed": 10
  },
  {
+  "slug": "edwards-county",
+  "title": "Edwards County",
+  "places": 6,
+  "dates": "5/14/2026",
+  "compliant": 1,
+  "remed": 5
+ },
+ {
   "slug": "city-of-galesburg",
   "title": "City of Galesburg",
   "places": 6,
