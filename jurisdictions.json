@@ -160,6 +160,14 @@
   "remed": 28
  },
  {
+  "slug": "dewitt-county",
+  "title": "DeWitt County",
+  "places": 13,
+  "dates": "3/5/2026 – 3/6/2026",
+  "compliant": 2,
+  "remed": 11
+ },
+ {
   "slug": "city-of-east-st-louis",
   "title": "City of East St. Louis",
   "places": 9,
