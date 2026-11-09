@@ -96,6 +96,14 @@
   "remed": 24
  },
  {
+  "slug": "clark-county",
+  "title": "Clark County",
+  "places": 15,
+  "dates": "4/8/2026 – 4/9/2026",
+  "compliant": 0,
+  "remed": 15
+ },
+ {
   "slug": "city-of-danville",
   "title": "City of Danville",
   "places": 9,
