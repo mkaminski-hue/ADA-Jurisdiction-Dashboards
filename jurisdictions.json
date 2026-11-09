@@ -240,6 +240,54 @@
   "remed": 6
  },
  {
+  "slug": "gallatin-county",
+  "title": "Gallatin County",
+  "places": 10,
+  "dates": "5/12/2026",
+  "compliant": 4,
+  "remed": 6
+ },
+ {
+  "slug": "greene-county",
+  "title": "Greene County",
+  "places": 15,
+  "dates": "6/2/2026 – 6/3/2026",
+  "compliant": 1,
+  "remed": 14
+ },
+ {
+  "slug": "grundy-county",
+  "title": "Grundy County",
+  "places": 17,
+  "dates": "2/2/2026 – 3/20/2026",
+  "compliant": 0,
+  "remed": 17
+ },
+ {
+  "slug": "hamilton-county",
+  "title": "Hamilton County",
+  "places": 13,
+  "dates": "5/5/2026",
+  "compliant": 0,
+  "remed": 13
+ },
+ {
+  "slug": "hancock-county",
+  "title": "Hancock County",
+  "places": 29,
+  "dates": "5/4/2026 – 5/6/2026",
+  "compliant": 1,
+  "remed": 28
+ },
+ {
+  "slug": "hardin-county",
+  "title": "Hardin County",
+  "places": 6,
+  "dates": "5/11/2026",
+  "compliant": 0,
+  "remed": 6
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
