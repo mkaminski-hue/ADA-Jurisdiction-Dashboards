@@ -104,6 +104,14 @@
   "remed": 15
  },
  {
+  "slug": "clay-county",
+  "title": "Clay County",
+  "places": 13,
+  "dates": "5/13/2026 – 5/14/2026",
+  "compliant": 1,
+  "remed": 12
+ },
+ {
   "slug": "city-of-danville",
   "title": "City of Danville",
   "places": 9,
