@@ -142,5 +142,13 @@
   "dates": "8/6/2026",
   "compliant": 0,
   "remed": 6
+ },
+ {
+  "slug": "city-of-rockford",
+  "title": "City of Rockford",
+  "places": 33,
+  "dates": "2/2/2026 – 10/11/2026",
+  "compliant": 2,
+  "remed": 31
  }
 ]
