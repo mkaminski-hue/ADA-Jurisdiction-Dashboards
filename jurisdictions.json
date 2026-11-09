@@ -200,6 +200,14 @@
   "remed": 5
  },
  {
+  "slug": "effingham-county",
+  "title": "Effingham County",
+  "places": 24,
+  "dates": "7/27/2026 – 7/28/2026",
+  "compliant": 0,
+  "remed": 24
+ },
+ {
   "slug": "city-of-galesburg",
   "title": "City of Galesburg",
   "places": 6,
