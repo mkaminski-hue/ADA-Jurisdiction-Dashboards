@@ -120,6 +120,14 @@
   "remed": 16
  },
  {
+  "slug": "coles-county",
+  "title": "Coles County",
+  "places": 24,
+  "dates": "4/8/2026 – 4/10/2026",
+  "compliant": 1,
+  "remed": 23
+ },
+ {
   "slug": "city-of-danville",
   "title": "City of Danville",
   "places": 9,
