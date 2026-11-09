@@ -168,6 +168,14 @@
   "remed": 11
  },
  {
+  "slug": "douglas-county",
+  "title": "Douglas County",
+  "places": 9,
+  "dates": "4/9/2026 – 4/10/2026",
+  "compliant": 0,
+  "remed": 9
+ },
+ {
   "slug": "city-of-east-st-louis",
   "title": "City of East St. Louis",
   "places": 9,
