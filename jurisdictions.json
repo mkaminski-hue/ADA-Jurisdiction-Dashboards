@@ -126,5 +126,13 @@
   "dates": "7/28/2026 – 7/30/2026",
   "compliant": 0,
   "remed": 9
+ },
+ {
+  "slug": "city-of-galesburg",
+  "title": "City of Galesburg",
+  "places": 6,
+  "dates": "8/6/2026",
+  "compliant": 0,
+  "remed": 6
  }
 ]
