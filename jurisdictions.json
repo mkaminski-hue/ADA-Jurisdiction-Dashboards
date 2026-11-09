@@ -152,6 +152,14 @@
   "remed": 9
  },
  {
+  "slug": "dekalb-county",
+  "title": "DeKalb County",
+  "places": 39,
+  "dates": "2/17/2026 – 3/17/2026",
+  "compliant": 11,
+  "remed": 28
+ },
+ {
   "slug": "city-of-east-st-louis",
   "title": "City of East St. Louis",
   "places": 9,
