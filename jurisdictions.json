@@ -1,10 +1,106 @@
 [
  {
+  "slug": "adams-county",
+  "title": "Adams County",
+  "places": 32,
+  "dates": "4/20/2026 – 4/23/2026",
+  "compliant": 2,
+  "remed": 30
+ },
+ {
+  "slug": "alexander-county",
+  "title": "Alexander County",
+  "places": 5,
+  "dates": "4/14/2026",
+  "compliant": 0,
+  "remed": 5
+ },
+ {
   "slug": "city-of-bloomington",
   "title": "City of Bloomington",
   "places": 21,
   "dates": "8/11/2026 – 8/12/2026",
   "compliant": 0,
   "remed": 21
+ },
+ {
+  "slug": "bond-county",
+  "title": "Bond County",
+  "places": 15,
+  "dates": "2/10/2026 – 2/11/2026",
+  "compliant": 4,
+  "remed": 11
+ },
+ {
+  "slug": "boone-county",
+  "title": "Boone County",
+  "places": 25,
+  "dates": "2/5/2026 – 9/15/2026",
+  "compliant": 0,
+  "remed": 25
+ },
+ {
+  "slug": "brown-county",
+  "title": "Brown County",
+  "places": 9,
+  "dates": "4/24/2026",
+  "compliant": 3,
+  "remed": 6
+ },
+ {
+  "slug": "bureau-county",
+  "title": "Bureau County",
+  "places": 34,
+  "dates": "2/17/2026 – 2/19/2026",
+  "compliant": 0,
+  "remed": 34
+ },
+ {
+  "slug": "calhoun-county",
+  "title": "Calhoun County",
+  "places": 5,
+  "dates": "2/9/2026 – 9/2/2026",
+  "compliant": 1,
+  "remed": 4
+ },
+ {
+  "slug": "carroll-county",
+  "title": "Carroll County",
+  "places": 10,
+  "dates": "2/5/2026 – 4/23/2026",
+  "compliant": 0,
+  "remed": 10
+ },
+ {
+  "slug": "cass-county",
+  "title": "Cass County",
+  "places": 8,
+  "dates": "4/29/2026",
+  "compliant": 4,
+  "remed": 4
+ },
+ {
+  "slug": "champaign-county",
+  "title": "Champaign County",
+  "places": 61,
+  "dates": "7/20/2026 – 8/27/2026",
+  "compliant": 1,
+  "remed": 60
+ },
+ {
+  "slug": "christian-county",
+  "title": "Christian County",
+  "places": 24,
+  "dates": "6/1/2026 – 6/3/2026",
+  "compliant": 0,
+  "remed": 24
+ },
+ {
+  "slug": "city-of-danville",
+  "title": "City of Danville",
+  "places": 9,
+  "dates": "7/28/2026 – 7/30/2026",
+  "compliant": 0,
+  "remed": 9
  }
 ]
