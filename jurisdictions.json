@@ -400,6 +400,86 @@
   "remed": 14
  },
  {
+  "slug": "livingston-county",
+  "title": "Livingston County",
+  "places": 34,
+  "dates": "2/17/2026 – 2/21/2026",
+  "compliant": 2,
+  "remed": 32
+ },
+ {
+  "slug": "logan-county",
+  "title": "Logan County",
+  "places": 17,
+  "dates": "6/4/2026 – 6/5/2026",
+  "compliant": 0,
+  "remed": 17
+ },
+ {
+  "slug": "macon-county",
+  "title": "Macon County",
+  "places": 25,
+  "dates": "5/5/2026 – 5/9/2026",
+  "compliant": 0,
+  "remed": 25
+ },
+ {
+  "slug": "macoupin-county",
+  "title": "Macoupin County",
+  "places": 34,
+  "dates": "4/20/2026 – 4/23/2026",
+  "compliant": 0,
+  "remed": 34
+ },
+ {
+  "slug": "madison-county",
+  "title": "Madison County",
+  "places": 89,
+  "dates": "6/10/2026 – 6/22/2026",
+  "compliant": 7,
+  "remed": 82
+ },
+ {
+  "slug": "marion-county",
+  "title": "Marion County",
+  "places": 27,
+  "dates": "7/29/2026 – 7/30/2026",
+  "compliant": 0,
+  "remed": 27
+ },
+ {
+  "slug": "marshall-county",
+  "title": "Marshall County",
+  "places": 10,
+  "dates": "2/24/2026",
+  "compliant": 1,
+  "remed": 9
+ },
+ {
+  "slug": "mason-county",
+  "title": "Mason County",
+  "places": 12,
+  "dates": "4/30/2026",
+  "compliant": 1,
+  "remed": 11
+ },
+ {
+  "slug": "massac-county",
+  "title": "Massac County",
+  "places": 14,
+  "dates": "4/15/2026 – 7/27/2026",
+  "compliant": 3,
+  "remed": 11
+ },
+ {
+  "slug": "mcdonough-county",
+  "title": "McDonough County",
+  "places": 17,
+  "dates": "5/7/2026 – 5/8/2026",
+  "compliant": 2,
+  "remed": 15
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
