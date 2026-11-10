@@ -504,6 +504,86 @@
   "remed": 6
  },
  {
+  "slug": "mercer-county",
+  "title": "Mercer County",
+  "places": 10,
+  "dates": "2/23/2026 – 2/24/2026",
+  "compliant": 1,
+  "remed": 9
+ },
+ {
+  "slug": "monroe-county",
+  "title": "Monroe County",
+  "places": 11,
+  "dates": "7/20/2026 – 8/26/2026",
+  "compliant": 4,
+  "remed": 7
+ },
+ {
+  "slug": "montgomery-county",
+  "title": "Montgomery County",
+  "places": 24,
+  "dates": "7/20/2026 – 7/21/2026",
+  "compliant": 0,
+  "remed": 24
+ },
+ {
+  "slug": "moultrie-county",
+  "title": "Moultrie County",
+  "places": 10,
+  "dates": "3/2/2026",
+  "compliant": 0,
+  "remed": 10
+ },
+ {
+  "slug": "ogle-county",
+  "title": "Ogle County",
+  "places": 34,
+  "dates": "4/13/2026 – 4/16/2026",
+  "compliant": 0,
+  "remed": 34
+ },
+ {
+  "slug": "peoria-county",
+  "title": "Peoria County",
+  "places": 55,
+  "dates": "5/11/2026 – 6/5/2026",
+  "compliant": 1,
+  "remed": 54
+ },
+ {
+  "slug": "perry-county",
+  "title": "Perry County",
+  "places": 14,
+  "dates": "4/13/2026 – 6/15/2026",
+  "compliant": 1,
+  "remed": 13
+ },
+ {
+  "slug": "piatt-county",
+  "title": "Piatt County",
+  "places": 12,
+  "dates": "3/3/2026",
+  "compliant": 3,
+  "remed": 9
+ },
+ {
+  "slug": "pike-county",
+  "title": "Pike County",
+  "places": 22,
+  "dates": "6/8/2026 – 6/9/2026",
+  "compliant": 2,
+  "remed": 20
+ },
+ {
+  "slug": "pope-county",
+  "title": "Pope County",
+  "places": 5,
+  "dates": "2/27/2026",
+  "compliant": 0,
+  "remed": 5
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
