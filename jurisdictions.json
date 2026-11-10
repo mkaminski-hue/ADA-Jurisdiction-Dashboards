@@ -750,5 +750,61 @@
   "dates": "7/21/2026 – 7/22/2026",
   "compliant": 6,
   "remed": 11
+ },
+ {
+  "slug": "wayne-county",
+  "title": "Wayne County",
+  "places": 16,
+  "dates": "5/6/2026 – 5/8/2026",
+  "compliant": 0,
+  "remed": 16
+ },
+ {
+  "slug": "white-county",
+  "title": "White County",
+  "places": 11,
+  "dates": "5/13/2026",
+  "compliant": 1,
+  "remed": 10
+ },
+ {
+  "slug": "whiteside-county",
+  "title": "Whiteside County",
+  "places": 29,
+  "dates": "3/2/2026 – 3/4/2026",
+  "compliant": 8,
+  "remed": 21
+ },
+ {
+  "slug": "will-county",
+  "title": "Will County",
+  "places": 225,
+  "dates": "6/8/2026 – 9/16/2026",
+  "compliant": 204,
+  "remed": 21
+ },
+ {
+  "slug": "williamson-county",
+  "title": "Williamson County",
+  "places": 33,
+  "dates": "2/5/2026 – 6/15/2026",
+  "compliant": 0,
+  "remed": 33
+ },
+ {
+  "slug": "winnebago-county",
+  "title": "Winnebago County",
+  "places": 42,
+  "dates": "3/4/2026 – 3/9/2026",
+  "compliant": 0,
+  "remed": 42
+ },
+ {
+  "slug": "woodford-county",
+  "title": "Woodford County",
+  "places": 30,
+  "dates": "4/8/2026 – 8/28/2026",
+  "compliant": 3,
+  "remed": 27
  }
 ]
