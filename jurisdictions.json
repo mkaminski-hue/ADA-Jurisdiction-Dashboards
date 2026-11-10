@@ -136,6 +136,14 @@
   "remed": 23
  },
  {
+  "slug": "cook-county",
+  "title": "Cook County",
+  "places": 761,
+  "dates": "1/7/2026 – 10/26/2026",
+  "compliant": 294,
+  "remed": 467
+ },
+ {
   "slug": "crawford-county",
   "title": "Crawford County",
   "places": 15,
