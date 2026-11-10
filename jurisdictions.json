@@ -670,5 +670,85 @@
   "dates": "8/5/2026",
   "compliant": 1,
   "remed": 4
+ },
+ {
+  "slug": "shelby-county",
+  "title": "Shelby County",
+  "places": 26,
+  "dates": "4/28/2026 – 6/15/2026",
+  "compliant": 0,
+  "remed": 26
+ },
+ {
+  "slug": "st-clair-county",
+  "title": "St. Clair County",
+  "places": 93,
+  "dates": "7/6/2026 – 8/25/2026",
+  "compliant": 66,
+  "remed": 27
+ },
+ {
+  "slug": "stark-county",
+  "title": "Stark County",
+  "places": 6,
+  "dates": "2/25/2026",
+  "compliant": 0,
+  "remed": 6
+ },
+ {
+  "slug": "stephenson-county",
+  "title": "Stephenson County",
+  "places": 22,
+  "dates": "4/8/2026 – 4/10/2026",
+  "compliant": 0,
+  "remed": 22
+ },
+ {
+  "slug": "tazewell-county",
+  "title": "Tazewell County",
+  "places": 48,
+  "dates": "1/9/2026 – 8/28/2026",
+  "compliant": 1,
+  "remed": 47
+ },
+ {
+  "slug": "union-county",
+  "title": "Union County",
+  "places": 14,
+  "dates": "4/13/2026 – 4/14/2026",
+  "compliant": 0,
+  "remed": 14
+ },
+ {
+  "slug": "vermilion-county",
+  "title": "Vermilion County",
+  "places": 25,
+  "dates": "3/4/2026 – 3/6/2026",
+  "compliant": 0,
+  "remed": 25
+ },
+ {
+  "slug": "wabash-county",
+  "title": "Wabash County",
+  "places": 9,
+  "dates": "6/15/2026",
+  "compliant": 0,
+  "remed": 9
+ },
+ {
+  "slug": "warren-county",
+  "title": "Warren County",
+  "places": 14,
+  "dates": "2/25/2026 – 2/26/2026",
+  "compliant": 4,
+  "remed": 10
+ },
+ {
+  "slug": "washington-county",
+  "title": "Washington County",
+  "places": 17,
+  "dates": "7/21/2026 – 7/22/2026",
+  "compliant": 6,
+  "remed": 11
  }
 ]
