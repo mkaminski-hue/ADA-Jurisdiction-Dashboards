@@ -320,6 +320,86 @@
   "remed": 43
  },
  {
+  "slug": "jefferson-county",
+  "title": "Jefferson County",
+  "places": 30,
+  "dates": "6/9/2026 – 6/11/2026",
+  "compliant": 0,
+  "remed": 30
+ },
+ {
+  "slug": "jo-daviess-county",
+  "title": "Jo Daviess County",
+  "places": 20,
+  "dates": "4/20/2026 – 4/22/2026",
+  "compliant": 0,
+  "remed": 20
+ },
+ {
+  "slug": "johnson-county",
+  "title": "Johnson County",
+  "places": 12,
+  "dates": "4/15/2026",
+  "compliant": 0,
+  "remed": 12
+ },
+ {
+  "slug": "kane-county",
+  "title": "Kane County",
+  "places": 69,
+  "dates": "2/2/2026 – 2/19/2026",
+  "compliant": 4,
+  "remed": 65
+ },
+ {
+  "slug": "kankakee-county",
+  "title": "Kankakee County",
+  "places": 54,
+  "dates": "2/2/2026 – 6/17/2026",
+  "compliant": 15,
+  "remed": 39
+ },
+ {
+  "slug": "kendall-county",
+  "title": "Kendall County",
+  "places": 35,
+  "dates": "4/20/2026 – 4/23/2026",
+  "compliant": 1,
+  "remed": 34
+ },
+ {
+  "slug": "knox-county",
+  "title": "Knox County",
+  "places": 21,
+  "dates": "4/29/2026 – 4/30/2026",
+  "compliant": 1,
+  "remed": 20
+ },
+ {
+  "slug": "lasalle-county",
+  "title": "LaSalle County",
+  "places": 70,
+  "dates": "2/17/2026 – 2/25/2026",
+  "compliant": 13,
+  "remed": 57
+ },
+ {
+  "slug": "lawrence-county",
+  "title": "Lawrence County",
+  "places": 16,
+  "dates": "6/16/2026 – 8/26/2026",
+  "compliant": 0,
+  "remed": 16
+ },
+ {
+  "slug": "lee-county",
+  "title": "Lee County",
+  "places": 16,
+  "dates": "3/5/2026 – 9/15/2026",
+  "compliant": 2,
+  "remed": 14
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
