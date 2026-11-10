@@ -480,6 +480,30 @@
   "remed": 15
  },
  {
+  "slug": "mchenry-county",
+  "title": "McHenry County",
+  "places": 90,
+  "dates": "6/15/2026 – 6/26/2026",
+  "compliant": 0,
+  "remed": 90
+ },
+ {
+  "slug": "mclean-county",
+  "title": "McLean County",
+  "places": 46,
+  "dates": "5/11/2026 – 6/16/2026",
+  "compliant": 0,
+  "remed": 46
+ },
+ {
+  "slug": "menard-county",
+  "title": "Menard County",
+  "places": 6,
+  "dates": "5/1/2026",
+  "compliant": 0,
+  "remed": 6
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
