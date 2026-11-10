@@ -312,6 +312,14 @@
   "remed": 31
  },
  {
+  "slug": "jackson-county",
+  "title": "Jackson County",
+  "places": 43,
+  "dates": "4/13/2026 – 4/17/2026",
+  "compliant": 0,
+  "remed": 43
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
