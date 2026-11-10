@@ -528,6 +528,14 @@
   "remed": 24
  },
  {
+  "slug": "morgan-county",
+  "title": "Morgan County",
+  "places": 17,
+  "dates": "4/8/2026 – 4/9/2026",
+  "compliant": 0,
+  "remed": 17
+ },
+ {
   "slug": "moultrie-county",
   "title": "Moultrie County",
   "places": 10,
@@ -584,11 +592,83 @@
   "remed": 5
  },
  {
+  "slug": "pulaski-county",
+  "title": "Pulaski County",
+  "places": 9,
+  "dates": "4/15/2026",
+  "compliant": 0,
+  "remed": 9
+ },
+ {
+  "slug": "putnam-county",
+  "title": "Putnam County",
+  "places": 9,
+  "dates": "2/23/2026",
+  "compliant": 0,
+  "remed": 9
+ },
+ {
+  "slug": "randolph-county",
+  "title": "Randolph County",
+  "places": 19,
+  "dates": "2/11/2026 – 2/12/2026",
+  "compliant": 0,
+  "remed": 19
+ },
+ {
+  "slug": "richland-county",
+  "title": "Richland County",
+  "places": 13,
+  "dates": "7/30/2026 – 7/31/2026",
+  "compliant": 2,
+  "remed": 11
+ },
+ {
+  "slug": "rock-island-county",
+  "title": "Rock Island County",
+  "places": 36,
+  "dates": "7/20/2026 – 7/24/2026",
+  "compliant": 0,
+  "remed": 36
+ },
+ {
   "slug": "city-of-rockford",
   "title": "City of Rockford",
   "places": 33,
   "dates": "2/2/2026 – 10/11/2026",
   "compliant": 2,
   "remed": 31
+ },
+ {
+  "slug": "saline-county",
+  "title": "Saline County",
+  "places": 14,
+  "dates": "7/27/2026 – 7/28/2026",
+  "compliant": 0,
+  "remed": 14
+ },
+ {
+  "slug": "sangamon-county",
+  "title": "Sangamon County",
+  "places": 78,
+  "dates": "4/20/2026 – 5/7/2026",
+  "compliant": 15,
+  "remed": 63
+ },
+ {
+  "slug": "schuyler-county",
+  "title": "Schuyler County",
+  "places": 14,
+  "dates": "4/27/2026 – 4/28/2026",
+  "compliant": 0,
+  "remed": 14
+ },
+ {
+  "slug": "scott-county",
+  "title": "Scott County",
+  "places": 5,
+  "dates": "8/5/2026",
+  "compliant": 1,
+  "remed": 4
  }
 ]
