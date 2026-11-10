@@ -240,6 +240,14 @@
   "remed": 19
  },
  {
+  "slug": "fulton-county",
+  "title": "Fulton County",
+  "places": 30,
+  "dates": "7/13/2026 – 7/18/2026",
+  "compliant": 0,
+  "remed": 30
+ },
+ {
   "slug": "city-of-galesburg",
   "title": "City of Galesburg",
   "places": 6,
@@ -328,12 +336,28 @@
   "remed": 43
  },
  {
+  "slug": "jasper-county",
+  "title": "Jasper County",
+  "places": 12,
+  "dates": "7/29/2026",
+  "compliant": 0,
+  "remed": 12
+ },
+ {
   "slug": "jefferson-county",
   "title": "Jefferson County",
   "places": 30,
   "dates": "6/9/2026 – 6/11/2026",
   "compliant": 0,
   "remed": 30
+ },
+ {
+  "slug": "jersey-county",
+  "title": "Jersey County",
+  "places": 14,
+  "dates": "6/1/2026 – 6/2/2026",
+  "compliant": 5,
+  "remed": 9
  },
  {
   "slug": "jo-daviess-county",
@@ -382,6 +406,14 @@
   "dates": "4/29/2026 – 4/30/2026",
   "compliant": 1,
   "remed": 20
+ },
+ {
+  "slug": "lake-county",
+  "title": "Lake County",
+  "places": 91,
+  "dates": "5/11/2026 – 9/17/2026",
+  "compliant": 42,
+  "remed": 49
  },
  {
   "slug": "lasalle-county",
